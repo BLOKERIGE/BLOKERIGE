@@ -1,4 +1,11 @@
-geosaitebi.tv/upload/banner/vipcard/980x90.png
+
+##.ad-catfish__desktop.ad-catfish
+##.ad-catfish-content
+##.avc-asv
+##[href^="https://asvla.com/welcome
+##[src="/upload/banner/wellcome/980x90-2.png
+geosaitebi.tv/upload/banner/*/980x90*.png
+geosaitebi.tv/upload/banner/wellcome/980x90-2.png
 surrogateausteritywhence.com
 attirecideryeah.com
 obqj2.com
