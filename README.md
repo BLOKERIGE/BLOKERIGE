@@ -1,3 +1,4 @@
+geosaitebi.tv/upload/banner/vipcard/980x90.png
 surrogateausteritywhence.com
 attirecideryeah.com
 obqj2.com
