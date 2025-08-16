@@ -1,3 +1,6 @@
+about:blank
+zrlqm.com
+ludicroustabletvelocity.com
 ##.ad-catfish__desktop.ad-catfish
 ##.ad-catfish-content
 ##.avc-asv
