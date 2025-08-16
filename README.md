@@ -1,4 +1,5 @@
-about:blank
+googletagmanager.com
+gtag.js
 zrlqm.com
 ludicroustabletvelocity.com
 ##.ad-catfish__desktop.ad-catfish
