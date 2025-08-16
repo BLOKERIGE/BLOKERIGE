@@ -1,3 +1,8 @@
+mc.yandex.ru
+mc.yandex.ru/metrika/tag.js
+/assets/index-CSbSMM0m.css
+/assets/index-D2FnnIW_.js
+googletagmanager.com/gtag/js
 googletagmanager.com
 gtag.js
 zrlqm.com
