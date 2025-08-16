@@ -80,7 +80,6 @@ srulad.com##main.main:nth-child(2) > section.content:nth-child(3) > div.inner_pa
 srulad.com##main.main:nth-child(2) > section.content:nth-child(3) > div.inner_page_container.movie-page.movie-item:first-child > div.row.m-b-15:nth-child(2) > div.col-12.d-block.d-sm-none:last-child > iframe.lazyLoad.loaded
 nvpartnerspromo.com
 geosaitebi.tv##div.wrapper:nth-child(7) > div.center-1.no-home.apirebsyureba-1:first-child > div.no-home-2 > div.no-home-3 > div.b-size-120.zoma-2:nth-child(2) > div.avc-asv > a > img
-i.imgur.com
 ads.js
 pagead.js
 naxe.tv##main:nth-child(11) > center:nth-child(3) > div > a > img
