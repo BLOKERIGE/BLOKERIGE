@@ -122,6 +122,6 @@ animeb.ge###dle-content > div.content:first-child > div.container-md-fluid.conta
 animeb.ge###dle-content > div.content:first-child > div.container-md-fluid.container:nth-child(2) > div.view.mb-0 > div.row > div.col-xs-12.col-sm-12.col-md-12.col-lg-9.col-xl-9:last-child > div.player-block:last-child > div.vip-banner:nth-child(2)
 animeb.ge##section.pb-1:nth-child(6) > div.container-fluid > div.banner-baze > h4.text-center.mb-4
 animeb.ge###dle-content > div.content:first-child > div.container-md-fluid.container:nth-child(2) > div.view.mb-0 > div.row > div.col-xs-12.col-sm-12.col-md-12.col-lg-9.col-xl-9:last-child > div.player-block:last-child > div.dle_b_renode-mobile:nth-child(14) > a > img
-||21wiz.com^
-||adexchangeclear.com^
+21wiz.com^
+adexchangeclear.com^
 imoviesge.com###dle-content > center:nth-child(5) > h5.blinking-text:nth-child(2)
